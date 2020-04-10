@@ -1,0 +1,6 @@
+---
+title: Sotrudniki.net
+date: 2020-04-10T15:29:46.534Z
+description: Новая система генерации плохих сотрудников
+---
+https://mandrillapp.com/track/click/31128206/sotrudniki-net.netlify.com?p=eyJzIjoiY0JUUTBXbEpwVV84NEpoODdVUVAyQzQ2UmJNIiwidiI6MSwicCI6IntcInVcIjozMTEyODIwNixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvc290cnVkbmlraS1uZXQubmV0bGlmeS5jb21cXFwvI2ludml0ZV90b2tlbj13cUREdHJLazBpeGRxTU1ROVgxbGV3XCIsXCJpZFwiOlwiNzg2YzM3YTBiYmM4NGJkMGE3ZGZlMTYzNjJmMGYyOGFcIixcInVybF9pZHNcIjpbXCJlNjBjNGI0NmEzNzJkOTgxNjU3NjQxZTEzNTNhNDQ2MWUzYmY3YTRiXCJdfSJ9
